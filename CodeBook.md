@@ -15,7 +15,7 @@ train\\y_train.txt > activity-id
 
 (1) Features-list is used to generate widths-vector for read.fwf.
     Set all width to -16 => don't read.
-    Set all width to 16 for feature witm mean or std in the name => read this data 
+    Set all width to 16 for feature with mean or std in the name => read this data 
 
 subject, x and y data is merged/appended using rbind
 
